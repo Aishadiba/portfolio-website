@@ -67,8 +67,11 @@
   font-weight: 700;
   color: white;
   background-color: #fff;
-  padding: 5rem;
-
+  border: .3rem solid #333;
+  padding: 5rem 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
 }
+.navbar
   
   /* End of section-1 */
