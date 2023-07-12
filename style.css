@@ -92,6 +92,8 @@
   position: relative;
   transition: color .2s;
 }
+.navbar-link::before{
+  color: #fff;}
 
 .navbar-link::before{content: "";
 width: 0;
