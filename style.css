@@ -92,6 +92,7 @@
   position: relative;
   transition: color .2s;
 }
+
 .navbar-link::before{
   color: #fff;}
 
@@ -108,5 +109,5 @@ transition: width 0.2s;
 .navbar-link:hover::before{
   width: 130%;
 }
-  
+  javascript
   /* End of section-1 */
